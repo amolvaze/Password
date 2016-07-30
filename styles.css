@@ -1,0 +1,24 @@
+	body {
+	    background: #320345; 
+	    padding: 2em; 
+	    font-size: 100%;
+	    font-family: sans-serif;
+	}
+
+	div {
+	    margin-bottom: 1em;
+	}
+
+	#password {
+	    font-size: 1.2em;
+	    width: 100%;
+	}
+
+	.figure {
+	    display: inline-block;
+	    color: #F52505;
+	    font-weight: bold;
+	    font-size: 16px;
+	}
+
+ 
